@@ -81,8 +81,8 @@ h3 {
   font-size: 40px;
 }
 
-.total-score-p1,
-.total-score-p2 {
+.total-score-p0,
+.total-score-p1 {
   font-size: 60px;
   color: darkorange;
 }
